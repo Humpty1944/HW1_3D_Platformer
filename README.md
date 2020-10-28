@@ -68,6 +68,7 @@ HP|	1 |	1 |	0
 Вероятность плиты с пуском|	0.03|	0.32|	-0.02|	По ходу игры уменьшается
 Вероятность плиты с пропастью|	0.05|	0.9|	+0.05|	По ходу игры увеличивается
 
-## Ссылки на используемые assert
+## Ссылки на используемые assert и учебный материал
 [Ancient Treasures](https://www.unrealengine.com/marketplace/en-US/product/9efde82ef29746fcbb2cb0e45e714f43)  
 [Human Vocalization](https://www.unrealengine.com/marketplace/en-US/product/human-vocalizations)
+[Туториал, по которому делался проект](https://www.youtube.com/playlist?list=PLZlv_N0_O1gbY4FN8pZuEPVC9PzQThNn1) 
